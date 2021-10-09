@@ -11,6 +11,9 @@ and then copy the token to the token file.
 # Requirements 
 Only work with python3
 
+# install requirment
+pip3 install -r requirements.txt
+
 # How to use
 
 1. Change the authmsg file with some secret keyworld
